@@ -11,7 +11,7 @@ This project is deployed on netlify here - [Ssense Clone](https://ssense-clone-m
 
 ## Authors
 
-- [@Kunal-Ladhani](https://github.com/Kunal-Ladhani)
+- [@Lalit-Kumar](https://github.com/lalitk1997)
 
 
 ## Team Members
